@@ -1,22 +1,22 @@
 # MultiGeiger
 
-Der MultiGeiger ist ein Messgerät für Radioaktivität. Er ist:
+Le MultiGeiger est un instrument de mesure de la radioactivité :
 
- * preiswert
- * ESP32-basiert
- * hat WiFi- bzw. WiFi/LoRa-Anbindung
+ * Il est bon marché.
+ * Il est basé sur un ESP32.
+ * Il dispose du WiFi seul ou bien du WiFi et du LoRa.
 
-**Multi**Geiger heißt er deshalb, weil das Gerät sehr viele Einsatz-Möglichkeiten hat:
+**Multi**Geiger s'appelle ainsi car l'appareil propose de nombreuses fonctionnalités :
 
- * Unterschiedliche Zählrohre - eine breite Palette von 400V-Zählrohren kann verwendet werden:
+ * Différents tubes détecteurs - de nombreux tubes fonctionnant sous une tension de 400 V peuvent être utilisés :
 
-   - große Zählrohre, wie Si21g oder Si22g (wie wir es für die MultiGeiger-Messstation verwenden)
-   - Mini-Zählrohr SBM21 (mit dem man sehr gut Hot-Spots aufspüren kann)
+   - Tubes de gros volume, comme les Si21g ou Si22g
+   - Tubes de petites dimensions SBM21
 
- * Unterschiedliche Verwendungen:
+ * Différentes utilisations:
 
-   - Multigeiger-Mess-Stationen für ein ODL-Mess-Netzwerk.
-   - Mobiler Betrieb mit OLED-Anzeige.
+   - Station de mesures Multigeiger dans le cadre d'un réseau de stations en ligne.
+   - Usage mobile grâce à l'écran OLED.
 
 
 # Ecocurious
